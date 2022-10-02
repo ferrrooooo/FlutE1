@@ -13,7 +13,7 @@ class _MyAppState extends State<MyApp> {
   Widget build(BuildContext context) {
     return MaterialApp(
       home: Scaffold(
-        appBar: AppBar(title: Text("법 막았어?"),),
+        appBar: AppBar(title: Text("죽을래"),),
         body: Stack(
           children: [
             Container(
